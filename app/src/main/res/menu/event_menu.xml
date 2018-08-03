@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/prev_match"
+        android:icon="@drawable/ic_prev_match"
+        android:title="@string/prev_match"/>
+    <item android:id="@+id/next_match"
+        android:icon="@drawable/ic_next_match"
+        android:title="@string/next_match"/>
+</menu>
